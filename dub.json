@@ -1,0 +1,16 @@
+{
+    "name": "derelict-cf",
+    "description": "A dynamic binding to the OSX CoreFoundation library for the D Programming Language.",
+    "homepage": "https://github.com/Extrawurst/DerelictCF",
+    "license": "MIT",
+    "authors": [
+        "Stephan Dilly"
+    ],
+
+    "targetName": "DerelictCF",
+    "targetPath": "lib",
+
+    "dependencies": {
+        "derelict-util": "~>1.9.1"
+    }
+}
